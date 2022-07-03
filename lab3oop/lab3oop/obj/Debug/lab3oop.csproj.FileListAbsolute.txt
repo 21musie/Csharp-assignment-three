@@ -1,0 +1,8 @@
+C:\Users\Valued Customer\source\repos\lab3oop\lab3oop\bin\Debug\lab3oop.exe.config
+C:\Users\Valued Customer\source\repos\lab3oop\lab3oop\bin\Debug\lab3oop.exe
+C:\Users\Valued Customer\source\repos\lab3oop\lab3oop\bin\Debug\lab3oop.pdb
+C:\Users\Valued Customer\source\repos\lab3oop\lab3oop\obj\Debug\lab3oop.csproj.AssemblyReference.cache
+C:\Users\Valued Customer\source\repos\lab3oop\lab3oop\obj\Debug\lab3oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valued Customer\source\repos\lab3oop\lab3oop\obj\Debug\lab3oop.csproj.CoreCompileInputs.cache
+C:\Users\Valued Customer\source\repos\lab3oop\lab3oop\obj\Debug\lab3oop.exe
+C:\Users\Valued Customer\source\repos\lab3oop\lab3oop\obj\Debug\lab3oop.pdb
